@@ -36,7 +36,6 @@ Travail sur les structures de données et la logique de programmation.
 
 L’objectif de ces projets est de renforcer mes bases en programmation et de progresser vers des domaines liés à la data et à l’intelligence artificielle.
 
-LinkedIn : https://www.linkedin.com/in/amine-mahamat-22b1661a0/
 
 ## Contact
 
